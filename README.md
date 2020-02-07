@@ -1,4 +1,4 @@
-# GoBarber-NodeJs-Rocketseat
+# GoBarber-backend
 
 A Software as a Service to provide a scheduling between barbers and clients.
 
