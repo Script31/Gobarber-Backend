@@ -34,7 +34,7 @@ The first step is to create your account, then you can login and choose a barber
 Clone the project with
 
 ```sh
-git clone https://github.com/CarlosLevir/GoBarber-NodeJs-Rocketseat.git
+git clone https://github.com/Script31/Gobarber-Backend.git
 ```
 
 Get in the path project, then install the dependencies with:
